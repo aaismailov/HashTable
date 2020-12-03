@@ -1,0 +1,64 @@
+AAA Lysine
+ACA Threonine
+CAA Glutamine
+AAC Asparagine
+CCA Proline
+ACC Threonine
+CAC Histidine
+CCC Proline
+AAG Lysine
+GAA Glutamic acid
+AGA Arginine acid
+ACG Threonine
+GCA Alanine
+CAG Glutamine
+GAC Aspartic acid
+CGA Arginine acid
+AGC Serine acid
+CCG Proline
+GCC Alanine
+CGC Arginine acid
+GAG Glutamic acid
+AGG Arginine acid
+GGA Glycine acid
+GCG Alanine
+CGG Arginine acid
+GGC Glycine acid
+GGG Glycine acid
+AUA Isoleucine
+UAA Stop
+AAU Asparagine
+CUA Leucine
+AUC Isoleucine
+UCA Serine
+ACU Threonine
+UAC Tyrosine
+CAU Histidine
+CUC Leucine
+UCC Serine
+CCU Proline
+AUG Methionine
+GUA Valine
+UAG Stop
+GAU Aspartic acid
+UGA Stop acid
+AGU Serine acid
+CUG Leucine
+GUC Valine
+UCG Serine
+GCU Alanine
+UGC Cysteine acid
+CGU Arginine acid
+GUG Valine
+UGG Tryptophan acid
+GGU Glycine acid
+UUA Leucine
+AUU Isoleucine
+UAU Tyrosine
+UUC Phenylalanine
+CUU Leucine
+UCU Serine
+UUG Leucine
+GUU Valine
+UGU Cysteine acid
+UUU Phenylalanine
