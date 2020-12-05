@@ -6,6 +6,7 @@
 #include <sstream>
 #include <string.h>
 #include <list>
+#include <QString>
 
 using namespace std;
 
@@ -202,11 +203,18 @@ template<typename K>
 list<string> dictionary_hash<K>::count(list<string> queue)
 {
     list<string> vqueue;
-    for (string k: queue)
+    for (string k: queue) {
+        int flag = 0;
         for(auto &i: this->m_map)
             for(auto &j: i)
                 if(j.first == k)
-                    vqueue.push_back(j.second);
+                    vqueue.push_back(j.second), flag = 1;
+        if (!flag){
+            stringstream ss;
+            ss << "Codon " << k << " doesn't exist";
+            vqueue.push_back(ss.str());
+        }
+    }
     return vqueue;
 }
 

@@ -31,14 +31,13 @@ private slots:
     void on_pushButton_file_output_ok_3_clicked();
 
     void on_pushButton_delete_3_clicked();
-/*
-    void on_pushButton_clicked();*/
+
+    void on_pushButton_clicked();
 
     void on_pushButton_2_clicked();
 
 private:
     dictionary_hash<string> collection;
-    dictionary_hash<string> geneticCodeTable;
 ;
     Ui::MainWindow *ui;
 };
